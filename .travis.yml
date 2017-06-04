@@ -3,7 +3,6 @@ sudo: false
 jdk:
   - oraclejdk8
   - oraclejdk7
-  - openjdk6
 install: chmod +x ./gradlew && ./gradlew build -DXmx2g
 script:
   - chmod +x ./gradlew && ./gradlew check
