@@ -1,20 +1,14 @@
 [
   {
-    "modid": "forensicScience",
-    "name": "ForensicScience",
+    "modid": "forensic_science",
+    "name": "Forensic Science",
     "description": "A mod providing forensic tools",
-    "version": "${version}",
-    "mcversion": "${mcversion}",
-    "url": "",
-    "updateUrl": "",
+    "version": "0.0.1",
+    "mcversion": "1.11",
+    "url": "https://github.com/MTRNord/ForensicScience",
+    "updateUrl": "https://raw.githubusercontent.com/MTRNord/ForensicScience/master/src/main/resources/update.json",
     "authorList": [
       "MTRNord"
-    ],
-    "credits": "",
-    "logoFile": "",
-    "screenshots": [],
-    "dependencies": [
-      ""
     ]
   }
 ]

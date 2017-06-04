@@ -18,7 +18,8 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
         modid = ForensicScience.MOD_ID,
         name = ForensicScience.MOD_NAME,
         version = ForensicScience.VERSION,
-        updateJSON = "https://raw.githubusercontent.com/MTRNord/ForensicScience/master/src/main/resources/update.json"
+        updateJSON = "https://raw.githubusercontent.com/MTRNord/ForensicScience/master/src/main/resources/update.json",
+        acceptedMinecraftVersions = "[1.11]"
 )
 public class ForensicScience {
 
