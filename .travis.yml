@@ -1,6 +1,12 @@
 language: java
+sudo: false
 jdk:
   - oraclejdk8
+  - oraclejdk7
+  - openjdk6
+install: ./gradlew build -DXmx2g
+script:
+  - ./gradlew check
 before_cache:
   - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock
   - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
