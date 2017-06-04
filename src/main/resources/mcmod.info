@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "forensicScience",
+    "name": "ForensicScience",
+    "description": "A mod providing forensic tools",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "MTRNord"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      ""
+    ]
+  }
+]
