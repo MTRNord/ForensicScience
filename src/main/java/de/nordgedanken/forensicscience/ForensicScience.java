@@ -13,7 +13,8 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 @Mod(
         modid = ForensicScience.MOD_ID,
         name = ForensicScience.MOD_NAME,
-        version = ForensicScience.VERSION
+        version = ForensicScience.VERSION,
+        updateJSON = "https://cdn.rawgit.com/MTRNord/ForensicScience/tree/master/src/main/resources/update.json"
 )
 public class ForensicScience {
 

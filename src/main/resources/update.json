@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/MTRNord/ForensicScience",
+  "promos": {
+    "1.11-recomended": "0.0.1"
+  },
+  "1.11" : {
+    "0.0.1": "Initial version basic functions"
+  }
+
+}
